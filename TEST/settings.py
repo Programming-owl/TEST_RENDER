@@ -25,7 +25,7 @@ SECRET_KEY = 'w3__pzzwop3q26mot04rffdyw+1c!2sn42pax89o(hw9!++ddx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
